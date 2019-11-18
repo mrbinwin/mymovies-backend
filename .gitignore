@@ -1,0 +1,6 @@
+/venv/
+/.idea/
+/tmp/
+*.pyc
+local_settings.py
+local_db.sqlite3
